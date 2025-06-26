@@ -22,6 +22,6 @@ Author in the Anthology 'Qurantine Tales' by BlueRose Publishers
 
 ### My Work
 
-Poems
+[Poems and short stories](./work.pdf)
 
-Short Story
+[A small excerpt from my unfinished novel](./EXCERPT.pdf)
